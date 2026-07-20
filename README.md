@@ -59,8 +59,6 @@ In Industrial **Non-Destructive Evaluation (NDE)**, ultrasonic A-scan signals ar
 Below is the time-domain signal comparison before and after DSP filtering:
 
 ![Signal Processing Pipeline Output](assets/Output_plot.png)
-<img width="1389" height="590" alt="Output_plot" src="https://github.com/user-attachments/assets/eef24241-62e8-49b3-8a79-e71c705c6850" />
-
 
 ---
 
