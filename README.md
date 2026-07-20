@@ -88,4 +88,4 @@ Bash
 python scripts/main_pipeline.py
 
 ## 📜 License
-### Distributed under the MIT License. See ![`LICENSE`](LICENSE) for details.
+### Distributed under the MIT License. See [`LICENSE`](LICENSE) for details.
