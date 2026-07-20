@@ -16,7 +16,7 @@ In Industrial **Non-Destructive Evaluation (NDE)**, ultrasonic A-scan signals ar
 ---
 
 ## 🛠️ Pipeline Architecture
-<img width="550" height="559" alt="image" src="https://github.com/user-attachments/assets/2007e177-6f80-41e1-9256-0ffb99a2d485" />
+<img width="570" height="559" alt="image" src="https://github.com/user-attachments/assets/2007e177-6f80-41e1-9256-0ffb99a2d485" />
 
 
 ---
