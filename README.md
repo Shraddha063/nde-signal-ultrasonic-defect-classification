@@ -16,19 +16,7 @@ In Industrial **Non-Destructive Evaluation (NDE)**, ultrasonic A-scan signals ar
 ---
 
 ## 🛠️ Pipeline Architecture
-[ Raw Noisy A-Scan Signal ]
-│
-▼
-[ Butterworth Bandpass Filter ]  ---> (300 Hz - 2000 Hz Isolation)
-│
-▼
-[ Wavelet Threshold Denoising ]   ---> (db4 Wavelet Decomposition)
-│
-▼
-[ Custom PyTorch 1D CNN ]       ---> (3x Conv1D + BatchNorm + ReLU + MaxPool)
-│
-▼
-[ Defect Classification ]      ---> (Normal vs. Defect Detected)
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/2007e177-6f80-41e1-9256-0ffb99a2d485" />
 
 
 ---
